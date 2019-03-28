@@ -1,5 +1,14 @@
+body {
+  background-color: lightgreen;
+  text-align: center;
+}
+
 .btn {
   display: block;
+  background-color: black;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #match {

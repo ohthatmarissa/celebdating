@@ -43,20 +43,5 @@ $(document).ready(function() {
       event.preventDefault();
 
 
-      if (age<35 && pets === 'dogs'){
-        if(gender==='male'){
-          match = "Kylie Jenner"
-        }
-        else if(gender==='female'){
-          match = "Post Malone"
-        }
-      }
-
-
-      if (true) {
-        //this gets run
-      }
-
-
   });
 });
